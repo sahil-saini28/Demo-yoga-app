@@ -1,0 +1,204 @@
+{
+  "data": [
+    {
+      "id": 716,
+      "type": "regular-class",
+      "images": [
+        {
+          "type": "image",
+          "file": "https://do-yoga.s3.amazonaws.com/7d13d196-a14f-4e73-8e22-06d8bce3747b.jpg"
+        }
+      ],
+      "videos": null,
+      "title": "30 days Suryanamaskar Challenge",
+      "slug": "30-days-suryanamaskar-challenge",
+      "description": "[{\"title\":\"\",\"description\":\"<p>The Class will begin with Warm Up excercises and prepare your body from day 1, with gradual increament each day to finally be able to do 108 Suryanamaskars towards the 30th day.</p>\\n<p>Consistent Practice of Suryanamaskar has the following<strong> Benefits:</strong></p>\\n<p><em>Promotes Weight Loss, Improves Flexibility, Combat Insomnia, Tones entire Body, Improves Stamina, Regulates Sugar Level, Over come Harmonal Imbalance, Regulates Menstrual Cycle, Reduces Stress, Improves Focus and Concentration, Higher Energy Levels and Many more...</em></p>\\n<p><em>Benefits vary from person to person depending upon Individual Complinace.</em></p>\"}]",
+      "tags": "",
+      "level": "Beginner",
+      "style": "Hatha Yoga",
+      "start_time": "05:30:00",
+      "utc_start_time": "00:00:00",
+      "duration": 60,
+      "streamed_count": 27,
+      "repeat_type": "custom",
+      "repeat_value": "monday,tuesday,wednesday,thursday,friday,saturday,sunday",
+      "no_drop_in": true,
+      "recurring_class": false,
+      "join_after_start": false,
+      "start_date": "2024-01-02",
+      "end_date": "2024-12-31",
+      "single_currency_fee": {
+        "currency": "inr",
+        "fee": 50,
+        "fee_inr": 50
+      },
+      "period_currency_fee": {
+        "currency": "inr",
+        "fee": 2500,
+        "fee_inr": 2500
+      },
+      "video_platform": "zoom",
+      "video_link": "https://us02web.zoom.us/j/86788024337?pwd=Z25NT0htVys4TEFpWCtKRkxGNTZXUT09",
+      "video_password": "499187",
+      "meeting_id": "86788024337",
+      "zoom_link": "https://us02web.zoom.us/j/86788024337?pwd=Z25NT0htVys4TEFpWCtKRkxGNTZXUT09",
+      "utc_start_at": 1704153600,
+      "utc_end_at": 1735606800,
+      "teacher": {
+        "id": 1647,
+        "profile_picture": "https://do-yoga.s3.amazonaws.com/bb668818-84b3-455e-a0b4-99ebab720e24.jpg",
+        "first_name": "Lakshmi",
+        "full_name": "Lakshmi Nair",
+        "tags": null,
+        "practicing_years": 3,
+        "teaching_years": 3,
+        "style": "Hatha Yoga, Ashtanga Yoga, Chair Yoga, Face Yoga",
+        "description": "I am an Internationally Certified Yoga Trainer from Sanskriti Yogashala, Hrishikesh, affiliated to International Yoga Alliance, USA. My Vision is to spread good physical and mental health and to make life chemical free through Yoga for People of all Ages, Gender and different levels of fitness. I have over 4 years of experience in conducting classes for Beginners to Intermediate Levels, and expertise in Internationally Certified Face Yoga. I also conduct Chair Yoga for people who have discomfort doing Yoga on floor mat. I conduct Pre-Natal Yoga Classes for women who are in their 2nd & 3rd trimester ( not exceeding 3 participants in batch).",
+        "experiances": "[{\"title\":\"Internationally Certified Yoga Trainer\",\"institution\":\"Sanskriti yogashala, Hrishikesh Affiliated to International Yoga Alliance, USA\"},{\"title\":\"\",\"institution\":\"\"}]",
+        "invited_users": null,
+        "location": "Bangalore",
+        "school_description": null,
+        "school_name": null,
+        "school_images": [
+          {
+            "type": "video",
+            "file": "https://do-yoga.s3.amazonaws.com/2be99f2b-0569-4365-bb00-213e337f355e.mp4"
+          }
+        ],
+        "profile_videos": [
+          {
+            "type": "video",
+            "file": "https://do-yoga.s3.amazonaws.com/2be99f2b-0569-4365-bb00-213e337f355e.mp4"
+          }
+        ],
+        "domain": "lakshmi"
+      }
+    },
+    {
+      "id": 612,
+      "type": "course",
+      "images": [
+        {
+          "type": "image",
+          "file": "https://do-yoga.s3.amazonaws.com/Screenshot_2023-12-12_at_5.21.08_PM.png"
+        },
+        {
+          "type": "image",
+          "file": "https://do-yoga.s3.amazonaws.com/1e348e5d-a562-4201-bad2-ce27161f1bd0.jpg"
+        }
+      ],
+      "videos": "",
+      "title": "Hatha yoga TTC",
+      "slug": "hatha-yoga-ttc",
+      "description": "[{\"title\":\"Overview\",\"description\":\"<p>A comprehensive program designed for individuals who have a passion for yoga and aspire to become certified yoga instructors. Whether you're a dedicated practitioner seeking to deepen your understanding or someone interested in sharing the transformative power of yoga with others, our Yoga TTC provides you with the knowledge, skills, and certification necessary to teach yoga classes.</p><p>&nbsp;</p>\"},{\"title\":\"About the Course\",\"institution\":\"\",\"description\":\"<p>Our course, meticulously crafted by an expert panel with years of immersion in yoga, covers both the practical and theoretical aspects of yoga in the Level 1 TTC Program. From chanting and Surya Namaskaras to Asanas, Pranayama, Mudras, and Bandhas, you'll embark on a holistic journey to deepen your practice and teaching abilities.</p><p><br>&nbsp;</p><p><br>&nbsp;</p>\"},{\"title\":\"Course Overview visit www.nirakulayoga.com\",\"institution\":\"\",\"description\":\"<p>Nirakula’s course is set by an expert panel who have immersed themselves in Yoga for years. We cover both the Practical and Theoretical aspects of Yoga in the Level 1 TTC Program. We begin with learning to chant and then move onto Surya Namaskaras, Asanas and Pranayama. Also included are Mudras and Bandhas.&nbsp;</p><p><br>&nbsp;</p>\"},{\"title\":\"Course Contents\",\"institution\":\"\",\"description\":\"<p><strong>Practicals Module</strong></p><p>&nbsp;</p><p><strong>Surya Namaskar (Sun Salutations):</strong> You will explore and practice 3 types of Surya Namaskars.<br>&nbsp;</p><p><strong>Asanas (Yoga Poses):</strong> You will learn and practice over 70 yoga asanas, including detailed instruction on breath synchronization, gazing points, key alignment principles, contraindications, benefits, entering and exiting each pose, as well as modifications and variations to accommodate different body types and abilities.<br>&nbsp;</p><p><strong>Pranayama (Breathing Techniques):</strong> The course will introduce you to five pranayama techniques, including Nadi Shodhana (Alternate Nostril Breathing), Seetali (Cooling Breath), Sheetkari (Hissing Breath), Bhramari (Bee Breath), and Ujjayi (Victorious Breath). These practices help regulate the breath, calm the mind, and cultivate prana (life force energy).<br>&nbsp;</p><p><strong>Mudras and Bandhas:</strong> You will explore the use of hand gestures known as mudras and energy locks called bandhas.<br>&nbsp;</p><p><strong>Pratyahara (Withdrawal of Senses): </strong>The course will guide you through practices to cultivate pratyahara. Through specific techniques, you will learn to turn your focus inward, promoting inner stillness and concentration.<br>&nbsp;</p><p><strong>Dharana (Concentration) and Dhyana (Meditation): </strong>You will engage in exercises to develop concentration (dharana) and meditation (dhyana) skills. These practices aim to quiet the mind, deepen self-awareness, and cultivate a state of calm and clarity.<br>&nbsp;</p><p><strong>Kriyas (Purification Techniques):</strong> The course includes 2 kriyas, namely Jala Neti (nasal cleansing using water) and Sutra Neti (nasal cleansing using a special thread). These practices help purify the nasal passages, enhance respiratory health, and prepare the body for pranayama and meditation practices.</p><p>&nbsp;</p><p><strong>Theory Module</strong></p><p>&nbsp;</p><p>Introduction to Yoga</p><p>History of Yoga</p><p>Definitions of yoga</p><p>Four paths of yoga</p><p>Hatha yoga theory</p><p>Koshas, Pranas and Gunas</p><p>Chakras and Nadis</p><p>Philosophy - Sankhya</p><p>Anatomy - 6 systems</p><p>Universal prayers</p><p>Patanjali Yoga Sutras - Chapters 1 &amp; 2</p><p>Basic Samskrita</p><p>&nbsp;</p><p><strong>Teaching Practice</strong></p><p>&nbsp;</p><p>Asana with props</p><p>Hatha Vinyasa</p><p>Hands-on adjustments</p><p>Teaching methodology</p><p>Yoga Nidra</p>\"}]",
+      "tags": null,
+      "level": "Intermediate",
+      "style": "Hatha Yoga, Ashtanga, Vinyasa, Asana with props",
+      "start_time": "10:00:00",
+      "utc_start_time": "04:30:00",
+      "duration": 120,
+      "streamed_count": 0,
+      "repeat_type": "custom",
+      "repeat_value": "tuesday,wednesday,monday,thursday,friday",
+      "no_drop_in": true,
+      "recurring_class": false,
+      "join_after_start": true,
+      "start_date": "2024-01-08",
+      "end_date": "2024-02-20",
+      "single_currency_fee": {
+        "currency": "inr",
+        "fee": 55000,
+        "fee_inr": 55000
+      },
+      "period_currency_fee": {
+        "currency": "inr",
+        "fee": 55000,
+        "fee_inr": 55000
+      },
+      "video_platform": "zoom",
+      "video_link": "https://nirakulayoga.onlineclass.site/joinPublic/63f72d4ad7216d492c4469b493988749",
+      "video_password": "",
+      "meeting_id": "",
+      "zoom_link": "https://nirakulayoga.onlineclass.site/joinPublic/63f72d4ad7216d492c4469b493988749",
+      "utc_start_at": 1704688200,
+      "utc_end_at": 1708410600,
+      "teacher": {
+        "id": 31,
+        "profile_picture": "https://do-yoga.s3.amazonaws.com/31/a34c43b0-aba1-4626-9b0b-d61e916e470c.jpg",
+        "first_name": "Amaresha",
+        "full_name": "Amaresha k",
+        "tags": null,
+        "practicing_years": 9,
+        "teaching_years": 9,
+        "style": "Hatha yoga",
+        "description": "Amaresha is a Yoga Teacher, Contemporary dancer and a theatre artist. He holds Mater degree in M.Sc Yogic Sciences,  also he is certified ERYT 500 and he has been teaching yoga  since 2012. He teaches Hatha yoga.",
+        "experiances": null,
+        "invited_users": null,
+        "location": "Bangalore",
+        "school_description": "We teach online beginners, intermediate, and advance asana and pranayama classes. We do in-person TTC 200hrs and 300hrs courses.",
+        "school_name": "Nirakula yoga academy",
+        "school_images": [
+          {
+            "type": "image",
+            "file": "https://do-yoga.s3.amazonaws.com/temp/b6828a30-dfc5-47a6-b1d8-6cf3c5823146.jpg"
+          },
+          {
+            "type": "image",
+            "file": "https://do-yoga.s3.amazonaws.com/temp/4bbd80dd-deb9-48e3-8f6e-421e87e0dfc8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "https://do-yoga.s3.amazonaws.com/temp/94f6ca22-2a86-4fc0-b57d-9e937965ae7a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "https://do-yoga.s3.amazonaws.com/temp/2d59945e-db2f-47f2-8e52-51d7446ded88.jpg"
+          },
+          {
+            "type": "image",
+            "file": "https://do-yoga.s3.amazonaws.com/temp/349e1504-fd71-49aa-9ec9-7c316d0b84cb.jpg"
+          },
+          {
+            "type": "image",
+            "file": "https://do-yoga.s3.amazonaws.com/temp/ee1785dd-10e0-4fa0-a018-458363d34b64.jpg"
+          },
+          {
+            "type": "image",
+            "file": "https://do-yoga.s3.amazonaws.com/temp/062ef225-2b4c-4b9d-bb7f-169be936eee7.jpg"
+          }
+        ],
+        "profile_videos": [
+          {
+            "type": "image",
+            "file": "https://do-yoga.s3.amazonaws.com/temp/b6828a30-dfc5-47a6-b1d8-6cf3c5823146.jpg"
+          },
+          {
+            "type": "image",
+            "file": "https://do-yoga.s3.amazonaws.com/temp/4bbd80dd-deb9-48e3-8f6e-421e87e0dfc8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "https://do-yoga.s3.amazonaws.com/temp/94f6ca22-2a86-4fc0-b57d-9e937965ae7a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "https://do-yoga.s3.amazonaws.com/temp/2d59945e-db2f-47f2-8e52-51d7446ded88.jpg"
+          },
+          {
+            "type": "image",
+            "file": "https://do-yoga.s3.amazonaws.com/temp/349e1504-fd71-49aa-9ec9-7c316d0b84cb.jpg"
+          },
+          {
+            "type": "image",
+            "file": "https://do-yoga.s3.amazonaws.com/temp/ee1785dd-10e0-4fa0-a018-458363d34b64.jpg"
+          },
+          {
+            "type": "image",
+            "file": "https://do-yoga.s3.amazonaws.com/temp/062ef225-2b4c-4b9d-bb7f-169be936eee7.jpg"
+          }
+        ],
+        "domain": "amaresha"
+      }
+    }
+  ]
+}
